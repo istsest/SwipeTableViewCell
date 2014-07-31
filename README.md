@@ -10,6 +10,7 @@ It is so easy to use.
 1. Create views and assign to leftView, rightView, or both of the PCSwipeTableViewCell class.
 2. Implement delegates.
 
+* It is possible to encounter the Delete button, which is provided by iOS basically.
 
 
 <pre><code>
